@@ -1,3 +1,4 @@
+import tensorflow as tf
 
 def u_net_model(IMG_HEIGHT, IMG_WIDTH, IMG_CHANNELS):
     #Build the model
